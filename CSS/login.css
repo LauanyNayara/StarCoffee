@@ -1,0 +1,32 @@
+header nav ul{
+    list-style-type: none;
+     display: flex;
+    
+ }
+ header nav{
+     display: flex;
+ }
+ .logo{
+     height: 50px;
+     width: 50px;
+ 
+ }
+ header{
+     box-shadow: 10px 10px 15px -7px rgba(0,0,0,0.75);
+     display: flex;
+     justify-content: space-between;
+ }
+ header li{
+     margin: 8px;
+ }
+ .div1{
+    display: flex;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div1 > img{
+    height: 20px;
+   
+}
